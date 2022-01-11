@@ -1,2 +1,7 @@
 # messho-listing-code
-This code automate the listing work on messho (e-commerce  website )
+###This code automate the listing work on messho (e-commerce  website )
+## HOW ITS WORK ?
+1. FIRST OF ALL OPEN MESSHO SELLER WEBSITE (https://supplier.meesho.com/) AND THEN MOVE TO THE  CATALOG UPLOAD .
+2. NOW PRESS {CTRL+SHIFT+J) IT WILL OPEN THE INCPECT TOOL OF CHROME AND NOW NAVIGATE TO THE SOCURCE SECTION AND THEN ADD NEW SNIPPET AND PASTE THE CODE WHERE AND PRESS {CTRL+ENTER}. 
+3. NOW JUST SELECT THE IMAGE AND ITS DONE !
+#THANKS
